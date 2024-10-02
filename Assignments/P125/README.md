@@ -9,7 +9,7 @@ Problem:
 Code solution: 
 
 
-
+```
 #include <iostream>
 #include <string>
 #include <cctype>
@@ -26,10 +26,8 @@ public:
                 filtered += std::tolower(c);
             }
         }
-
         int left = 0;
         int right = filtered.size() - 1;
-
         while (left < right)
         {
             if (filtered[left] != filtered[right])
@@ -42,4 +40,5 @@ public:
         return true;
     }
 };
+```
 
