@@ -1,12 +1,12 @@
-Leetcode 9: Palindrome Number
+**Leetcode 9: Palindrome Number**
 
-Problem:
+**Problem:**
 
 
 ![image](https://github.com/user-attachments/assets/f9f4bd08-ad7b-4006-9bd4-f8b2ccd04b72)
 
 
-Test Case(s):
+**Test Case(s):**
 
 
 ![image](https://github.com/user-attachments/assets/9c898be5-f498-4d70-aa18-845b15afadea)
@@ -16,15 +16,7 @@ Test Case(s):
 ![image](https://github.com/user-attachments/assets/91352474-39af-4ebc-9286-612e0d6f33c6)
 
 
-
-
-
-
-
-
-
-
-Code Solution:
+**Code Solution:**
 
 ```
 class Solution {
