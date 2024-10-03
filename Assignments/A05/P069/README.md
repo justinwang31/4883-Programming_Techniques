@@ -1,4 +1,4 @@
-**Leetcode 69: Sqrt(x)**
+## **Leetcode 69: Sqrt(x)**
 
 **Problem:**
 
