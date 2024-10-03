@@ -8,3 +8,4 @@
 |  4  | [A05](./A05/P125/README.md)| Easy Breezy #125 |
 |  5  | [A05](./A05/P069/README.md)| Easy Breezy #069 |
 |  6  | [A05](./A05/P367/README.md)| Easy Breezy #367 |
+|  7  | [A05](./A05/P367/README.md)| Easy Breezy #1523 |
