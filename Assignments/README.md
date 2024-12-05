@@ -13,3 +13,4 @@
 |  12  | [A07](./A07/README.md)| Priority Queezy #703 |
 |  13  | [A08](./A08/README.md)| Graphin Sleezy #733 |
 |  15  | [A10](./A10/README.md)| Geometry Problems #335 |
+|  16  | [A11](./A11/README.md)| Bipartite/Graph Coloring #886 |
