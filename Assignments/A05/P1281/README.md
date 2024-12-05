@@ -10,9 +10,10 @@
 **Test Case(s):**
 
 
-![image](https://github.com/user-attachments/assets/25f7a694-4967-4e66-9f22-030bc9af3a17)
+![image](https://github.com/user-attachments/assets/125b80c8-11e6-4ef2-b461-820bf5d81c94)
 
 
+![image](https://github.com/user-attachments/assets/c9de4120-2460-4f59-912c-ce80d2460c23)
 
 
 **Code Solution:**
