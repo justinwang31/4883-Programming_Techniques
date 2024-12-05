@@ -11,8 +11,10 @@
 **Test Case(s):**
 
 
-![image](https://github.com/user-attachments/assets/4034a8d7-9800-4dca-ab30-cac4de44d86d)
+![image](https://github.com/user-attachments/assets/9fbdcdde-31d9-40fc-8482-ec409ba3d3f6)
 
+
+![image](https://github.com/user-attachments/assets/d4b1d0f5-537e-4dc6-be44-1dc0a668fb55)
 
 
 **Code Solution:**
