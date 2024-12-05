@@ -1,4 +1,4 @@
-## **Leetcode 69: Sqrt(x)**
+## **Leetcode 794: Valid Tic-Tac-Toe State**
 
 **Problem:**
 
