@@ -1,4 +1,4 @@
-## **Leetcode 69: Sqrt(x)**
+## **Leetcode 1281: Subtract the Product and Sum of Digits of an Integer** ##
 
 **Problem:**
 
