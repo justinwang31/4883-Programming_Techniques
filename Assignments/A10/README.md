@@ -10,12 +10,11 @@
 
 **Test Case(s):**
 
-![image](https://github.com/user-attachments/assets/994c71f2-4811-48da-82c8-17193e4e698e)
+![image](https://github.com/user-attachments/assets/abbd5dd1-963c-4d61-8879-0bf0fa23c56f)
 
+![image](https://github.com/user-attachments/assets/47567956-b56f-43ee-a5b0-aa15d77cfa52)
 
-![image](https://github.com/user-attachments/assets/e8b4963a-9003-4bd2-9111-e2bbcc780897)
-
-
+![image](https://github.com/user-attachments/assets/0c0faea3-66e5-4e76-a119-44bfa07b0ab3)
 
 **Code Solution:**
 
