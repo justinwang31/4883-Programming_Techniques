@@ -10,9 +10,13 @@
 **Test Case(s):**
 
 
+![image](https://github.com/user-attachments/assets/9a565a4b-d3ea-4387-be72-fea9f142bc84)
 
-![image](https://github.com/user-attachments/assets/b40f61c3-e899-47ec-949c-58a7fdd9b746)
 
+![image](https://github.com/user-attachments/assets/990fd40a-0d71-4798-ab99-674771d95ee5)
+
+
+![image](https://github.com/user-attachments/assets/e1ae37f3-a72e-4ff0-9fa8-b3b266b84586)
 
 
 **Code Solution:**
