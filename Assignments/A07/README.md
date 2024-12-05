@@ -8,8 +8,10 @@
 
 **Test Case(s):**
 
+![image](https://github.com/user-attachments/assets/ac65b188-5241-4fd1-81d9-4def2c738143)
 
-![image](https://github.com/user-attachments/assets/7ba219e6-c242-47a2-965e-3e59213f0d1f)
+![image](https://github.com/user-attachments/assets/d0676046-9a0b-4dc8-b209-ce7c3227e50b)
+
 
 
 **Code Solution**
